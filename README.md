@@ -1,4 +1,4 @@
-# bolzano-method-program
+# bolzano-approximation-program
 A program that will approximate the value of x in a function using Bolzano Method. 
 Will also show the animation of graph process of finding the value of x by approximation using matplotlib.
 
